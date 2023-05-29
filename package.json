@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "^10.17.0",
-    "aws-cdk": "^1.94.1",
+    "aws-cdk": "^1.202.0",
     "typescript": "^3.8"
   },
   "dependencies": {
@@ -28,8 +28,7 @@
     "@aws-cdk/aws-iam": "^1.94.1",
     "@aws-cdk/aws-s3": "^1.94.1",
     "@aws-cdk/aws-s3-deployment": "^1.94.1",
-    "@aws-cdk/core": "^1.94.1",
-    "aws-cdk": "^1.94.1"
+    "@aws-cdk/core": "^1.94.1"
   },
   "homepage": "https://github.com/EPAM-JS-Competency-center/nodejs-aws-cdk-starter#readme"
 }
